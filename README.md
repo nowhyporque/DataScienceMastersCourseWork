@@ -29,19 +29,6 @@ The [MS in Data Science at CUNY SPS](https://sps.cuny.edu/academics/graduate/mas
 
 ---
 
-## Repository Structure
-
-```
-📦 cuny-sps-data-science
- ┣ 📂 DATA602-intro-data-analysis/
- ┣ 📂 DATA606-statistics-probability/
- ┣ 📂 DATA607-data-acquisition/
- ┣ 📂 DATA608-visual-analytics/
- ┣ 📂 electives/
- ┣ 📂 capstone/
- ┗ 📄 README.md
-```
-
 Each course folder contains assignments, projects, discussion posts, and any relevant datasets or notebooks.
 
 ---
